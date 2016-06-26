@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on A Series of Semi-empirical Schenanigans</title>
+    <link>http://lessthanhero.io/post/</link>
+    <description>Recent content in Posts on A Series of Semi-empirical Schenanigans</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>All rights reserved - Andrew Hamilton - 2016</copyright>
+    <lastBuildDate>Sat, 11 Jun 2016 15:47:59 -0700</lastBuildDate>
+    <atom:link href="http://lessthanhero.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>begin again</title>
+      <link>http://lessthanhero.io/post/begin-again/</link>
+      <pubDate>Sat, 11 Jun 2016 15:47:59 -0700</pubDate>
+      
+      <guid>http://lessthanhero.io/post/begin-again/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;m not totally sure why but I stopped blogging a while ago. I think about beginning again but I can never quite get myself to actually do it, until now.&lt;/p&gt;
+
+&lt;p&gt;One of my favorite things to do is to help people learn and fix issues they might run into. I believe that blogging is a great way to do that with a large audience (even if my blog is not accessed very often). All that I hope is that one person might find what I&amp;rsquo;m doing here helpful. Other than that, this will mostly be a scratch pad for getting ideas and projects out of my head and onto something less crowded.&lt;/p&gt;
+
+&lt;p&gt;So what can you expect from my blog? Well I&amp;rsquo;m not 100% sure but it will be mostly technical. There may be some cultural stuff as well and a rant from time to time. As said before, I just hope that I can can help one person with something he or she is attempting to accomplish.&lt;/p&gt;
+
+&lt;p&gt;That&amp;rsquo;s all for now but hopefully I&amp;rsquo;ll have something else soon!&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
