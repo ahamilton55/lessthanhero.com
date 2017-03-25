@@ -1,8 +1,14 @@
 +++
+author = ""
 date = "2016-06-11T15:47:59-07:00"
 draft = false
 title = "begin again"
-
+slug = ""
+tags = []
+image = ""
+comments = true     # set false to hide Disqus comments
+share = true        # set false to share buttons
+menu = ""           # set "main" to add this content to the main menu
 +++
 
 I'm not totally sure why but I stopped blogging a while ago. I think about beginning again but I can never quite get myself to actually do it, until now.
