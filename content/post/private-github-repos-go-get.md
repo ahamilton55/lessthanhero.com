@@ -7,7 +7,7 @@ image = "images/locks.jpg"
 menu = ""
 share = true
 slug = "private-github-repos-go-get"
-tags = ["go","golang","github"]
+tags = ["go","golang","github","osx","homebrew"]
 title = "Private GitHub repos and go get"
 
 +++
