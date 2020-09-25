@@ -1,9 +1,11 @@
 baseurl = "https://lessthanhero.io/"
 languageCode = "en-us"
 title = "A Series of Semi-empirical Schenanigans"
-copyright = "All rights reserved - Andrew Hamilton - 2016"
+#copyright = "All rights reserved - Andrew Hamilton - 2020"
 #DisqusShortname = "lessthanhero"
-theme = "casper"
+theme = "ananke"
+
+Paginate = 7
 
 [params]
   cover = "images/engine.jpg"
@@ -23,3 +25,10 @@ theme = "casper"
   # linkedinName = ""
   # set true if you are not proud of using Hugo (true will hide the footer note "Proudly published with HUGO.....")
   #hideHUGOSupport = false
+  mainSections = ["post"]
+  background_color_class = "bg-black"
+  featured_image = "images/engine.jpg"
+  recent_posts_number = 4
+
+[Permalinks]
+    post = "/:filename/"
