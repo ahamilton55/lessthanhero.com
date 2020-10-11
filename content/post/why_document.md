@@ -1,6 +1,6 @@
 ---
 title: "Why document"
-date: 2020-10-03T11:41:04-07:00
+date: 2020-10-11T15:45:00-07:00
 tags: ["documentation"]
 featured_image: ""
 description: ""
