@@ -1,7 +1,7 @@
 baseurl = "https://lessthanhero.io/"
 languageCode = "en-us"
 title = "A Series of Semi-empirical Schenanigans"
-#copyright = "All rights reserved - Andrew Hamilton - 2020"
+copyright = "All rights reserved - Andrew Hamilton - "
 #DisqusShortname = "lessthanhero"
 theme = "ananke"
 
